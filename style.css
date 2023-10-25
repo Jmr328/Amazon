@@ -1,0 +1,84 @@
+* {
+    /* border: 1px solid red; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#logo {
+    margin-left: 50%;
+    padding-top: 5px;
+}
+
+#a-page {
+    padding-top: 10px;
+    margin-left: 40%;
+    display: flex;
+    align-items: center;
+} 
+
+#a-page-box {
+    border: 1px solid lightgray;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.button1 {
+    background-color: rgb(255, 215, 34);
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 300px;
+    padding: 8px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+.button2 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid lightgray;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 400px;
+    padding: 8px;
+    border-radius: 12px;
+    margin-left: -95px;
+}
+
+#new-here {
+    margin-left: 40.3%;
+    color: lightgray;
+}
+
+#sign-in {
+    font-size: 30px;
+}
+
+textarea {
+    margin-bottom: -10px;
+}
+
+#email {
+    margin-bottom: -2.5px;
+}
+
+#create {
+    margin-left: 45%;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 15px;
+    align-items: flex-start;
+    display: inline;
+}
+
+#navi-bar {
+    margin-left: 38%;
+}
+
+#foot {
+    margin-left: 43.5%;
+    font-size: 12px;
+}
